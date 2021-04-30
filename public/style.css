@@ -7,3 +7,9 @@ body {
     background-color: #C4A4D4;
     font-family: 'Poppins', sans-serif;
 }
+
+.container {
+    margin: 0 auto;
+    max-width: 100%;
+    width: 800px;
+}
