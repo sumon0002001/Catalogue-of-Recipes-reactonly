@@ -6,7 +6,10 @@ function App() {
   return (
     <div className="App">
     Hello react
+    <section className="container">
     <RandomMeal />
+    </section>
+   
     </div>
   );
 }
